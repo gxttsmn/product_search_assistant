@@ -1,2 +1,0 @@
-# product_search_assistant
-一个基于Qwen-agent的产品搜索助手，基于工程中文档做的一个RAG
